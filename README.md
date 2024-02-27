@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Rain-of-Bl00d
+- -----------------------------------------
 - 👀 I’m interested in web development
+- -----------------------------------------
 - 🌱 I’m currently learning Python and Java.
-   -----------------------------------------
+   
 - 😄 A CSE student who love to code and Makin web development
 - ------------------------------------------------------------
 
