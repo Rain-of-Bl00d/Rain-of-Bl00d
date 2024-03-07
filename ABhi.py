@@ -1,1 +1,1 @@
-print("Complete Goals")
+print(" Goals")
